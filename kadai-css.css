@@ -2,19 +2,16 @@
 
 header {
     width: 1000px;
-    margin: 0 auto; /*コンテンツを中央揃え*/
     background-color: #ffcccc;
 }
 
 footer {
     width: 1000px;
-    margin: 0 auto;
     background-color: #ffccff;
 }
 
 #wrapper {
     width: 1000px;
-    margin: 0 auto;
     display: flex;
     justify-content: space-between;
 }
@@ -27,8 +24,4 @@ footer {
 #menu {
     width: 300px;
     background-color: #ccccff;
-}
-
-#menu ul li {
-    margin-bottom: 5px;
 }
